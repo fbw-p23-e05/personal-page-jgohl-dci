@@ -1,0 +1,60 @@
+body{
+    background-color: blueviolet;
+    margin: 20px;
+    display: grid;
+    place-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
+h1{
+    color: black;
+    
+}
+h3{
+    color: black;
+    margin: 10px;
+}
+div{
+    color: rgb(39, 39, 39);
+    margin: 0px;
+    
+}
+ul{
+    color: rgb(39, 39, 39);
+    margin: 0px;
+}
+form{
+    margin: 50px;
+}
+.button {
+    background-color: rgb(66, 33, 97);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 425px;
+
+  }
+form {
+    padding: 10px 10px;
+    background-color: rgba(92, 163, 107, 0.342);
+    color: white;
+    border: 2px solid rgb(39, 39, 39);
+    border-radius: 4px;
+    width: 430px;
+  }
+input {
+    height: 42px;
+    width: 420px;
+    text-align: center;
+    font-size: 16px;
+}
+textarea{
+    font-size: 16px;
+    text-align: center;
+    width: 420px;
+}
