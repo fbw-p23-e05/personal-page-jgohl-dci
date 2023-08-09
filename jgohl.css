@@ -9,8 +9,11 @@ body{
 }
 
 h1{
-    color: black;
-    
+    border-radius: 20px;
+    padding: 10px;
+    background: transparent;
+    box-shadow:  10px 10px 86px #38006d,
+     -10px -10px 86px #a36bbd;
 }
 h3{
     color: black;
